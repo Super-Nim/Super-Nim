@@ -1,4 +1,4 @@
-### A visionary seeking other visonaries 👀
+### A visionary seeking other visionaries 👀
 
 
 
