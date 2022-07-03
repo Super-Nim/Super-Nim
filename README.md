@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on a NFT platform for the Maxja Sardegna Festival! 
-- 🌱 I’m currently learning DAO architecture and UX Design in DApps
-- 👯 I’m looking to collaborate on a cryptocurrency project
-- 💬 Ask me about DeFi and DEX's
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hakeem-whitmore/)
-- ⚡ Fun fact: Have yet to send crypto to a wrong address
+- 🔭 I’m currently participating in an intense 8-week Solidity Bootcamp! 
+- 🌱 I’m currently learning about ERC20Votes, contract security, and advanced Hardhat scripts.
+- 👯 I’m looking to collaborate on a DeFi Project.
+- 💬 Ask me about DeFi and DEX's.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hakeem-whitmore/).
+- ⚡ Fun fact: Have yet to send crypto to a wrong address.
  
